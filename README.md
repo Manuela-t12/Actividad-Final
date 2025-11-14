@@ -1,1 +1,1 @@
-# Actividad-Final
+Participar en el curso de Rockwell Automation fue una experiencia donde me  permitió acercarme a nuevas herramientas. A pesar de ello, considero que hubo aspectos que no cumplieron totalmente mis expectativas, especialmente en cuanto a la claridad de las explicaciones y la falta de acompañamiento práctico durante el proceso. Creo que el curso podría mejorar ofreciendo guías más detalladas, ejemplos aplicados y un acompañamiento más cercano por parte de los instructores, lo cual potenciaría significativamente el aprendizaje de los participantes.
